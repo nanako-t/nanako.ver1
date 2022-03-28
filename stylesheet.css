@@ -1,0 +1,30 @@
+body{
+    font-family: monospace;
+}
+li{
+    list-style: none;
+}
+.title {
+    color: #85cc02;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    border-bottom: 5px solid #85cc02;
+  }
+.title2{
+    color: olive;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 3px solid olive;
+}
+.one{
+    color: rgba(138, 85, 6, 0.678);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    padding: 30px;
+}
+.two{
+    color: rgba(39, 92, 4, 0.678);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darksalmon;
+    padding: 30px;
+}
+li{float: left;}
